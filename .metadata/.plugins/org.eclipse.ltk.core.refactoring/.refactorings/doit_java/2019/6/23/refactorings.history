@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;study_1&apos; to &apos;chapter12&apos;&#x0A;- Original project: &apos;doit_java&apos;&#x0A;- Original element: &apos;doit_java/src/study_1&apos;&#x0A;- Renamed element: &apos;doit_java/src/chapter12&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;study_1&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;study_1" name="chapter12" qualified="false" references="true" stamp="1559888810348" textual="false" version="1.0"/>
+</session>
