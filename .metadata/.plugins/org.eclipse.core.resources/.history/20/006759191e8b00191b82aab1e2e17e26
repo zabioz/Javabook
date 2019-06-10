@@ -1,0 +1,20 @@
+package chapter3;
+
+public class SwitchCase {
+	public static void main(String[] args) {
+	
+		int ranking = 4;
+		char medalColor;
+		
+		switch(ranking) {
+		case 1 : medalColor = 'G';
+		
+		case 2 : medalColor = 'S';
+		
+		default :
+			medalColor = 'A';
+		}
+		System.out.println(ranking + " is medal color " + medalColor);
+	}
+
+}

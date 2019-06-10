@@ -1,0 +1,27 @@
+package chapter3;
+
+public class SwichCase3 {
+	public static void main(String [] args) {
+	
+	int floor = 3;
+	char name;
+	
+	switch(floor) {
+	case "1" :
+		System.out.println(market);
+		break;
+	case "2" :
+		System.out.println(gpd);
+		break;
+	case "3" :
+		System.out.println(market);
+		break;
+		
+	
+	default :
+		name = 'not';
+		System.out.println("not");
+	}
+	System.out.println(floor + " floor is " + name);
+	}
+}

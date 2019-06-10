@@ -1,0 +1,12 @@
+package chapter4;
+
+public class Student { 
+int studentID;
+String studentName;
+int grade;
+String address;
+
+public void showStudentInfo() {
+	System.out.print(studentName + "," + address);
+}
+}
