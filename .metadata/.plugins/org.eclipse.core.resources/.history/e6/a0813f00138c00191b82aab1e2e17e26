@@ -1,0 +1,22 @@
+package chapter6;
+
+public class Taxi {
+
+		int taxicolor;
+		int passengerCount;
+		int money;
+		
+		public Taxi(int taxicolor) {
+			this.taxicolor = taxicolor;
+		}
+		
+		public void take (int money) {
+			this.money += money;
+			passengerCount++;
+			
+		}
+		public void showInfo() {
+			System.out.println("taxi" + taxicolor + "person." + "money is" + money);
+		}
+		}
+	

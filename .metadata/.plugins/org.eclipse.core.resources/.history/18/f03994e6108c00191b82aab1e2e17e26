@@ -1,0 +1,18 @@
+package chapter6;
+
+public class Subway {
+
+	String lineNumber;
+	int passengerCount;
+	int money;
+	
+	public Subway(String lineNumber) {
+		this.lineNumber = lineNumber;
+	}
+	
+	public void take(int money) {
+		this.money += money;   //승객이 지하철에 탄 경우를 구현한 메서드
+		passengetCount++;
+	}
+	
+}

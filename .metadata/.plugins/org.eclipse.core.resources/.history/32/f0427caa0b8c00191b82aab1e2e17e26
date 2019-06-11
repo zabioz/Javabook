@@ -1,0 +1,12 @@
+package chapter6;
+
+public class TakeTrans {
+	
+	public static void main (String[] args) {
+		
+	Student student.James = new Student("James", 5000);
+	Student student.Tomas = new Student("Tomas", 5000);
+	}
+	}
+
+}

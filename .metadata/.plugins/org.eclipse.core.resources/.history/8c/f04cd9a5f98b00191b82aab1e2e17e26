@@ -1,0 +1,19 @@
+package chapter6;
+
+class Person{
+	String name;
+	int age;
+	
+	Person() {
+		this("no name", 1);
+	}
+	
+	Person(String name, int age){
+		this.name = name;
+		this.age = age;
+	}
+}
+
+public class CallAnotherConst {
+
+}
