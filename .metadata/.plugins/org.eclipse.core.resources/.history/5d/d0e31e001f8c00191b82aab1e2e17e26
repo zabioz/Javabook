@@ -1,0 +1,8 @@
+package patten;
+
+public class Company {
+	private Company() {
+		
+	}
+
+}
