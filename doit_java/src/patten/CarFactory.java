@@ -6,7 +6,7 @@ public class CarFactory {
 	private static CarFactory instance = new CarFactory();
 	private CarFactory() {} 
 	
-	public static Company getInstance() {
+	public static CarFactory getInstance() {
 		if (instance == null ) {
 		instance = new CarFactory();
 	}
@@ -15,5 +15,6 @@ public class CarFactory {
 
 		
 	}
+	
 }
 
