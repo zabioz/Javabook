@@ -4,7 +4,7 @@ public class BookArray2 {
 
 	public static void main(String[] args) {
 		Book[] library = new Book[5];
-		
+
 		library[0] = new Book("태백삭맥", "조정래");
 		library[1] = new Book("데미안", "헤르만헤세");
 		library[2] = new Book("어떻게 살 것인가", "유시민");

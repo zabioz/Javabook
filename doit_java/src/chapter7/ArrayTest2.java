@@ -3,7 +3,7 @@ package chapter7;
 public class ArrayTest2 {
 	public static void main(String[] args) {
 		double [] data = new double[5];
-		
+
 		data[0] = 10.0;
 		data[1] = 20.0;
 		data[2] = 30.0;
